@@ -1,0 +1,13 @@
+# ナギとムジカ 共同執筆プロジェクト
+
+@writing-policy.md
+@project-settings.md
+
+## ファイル
+
+- writing-policy.md：執筆方針（進め方、描写と文章、表記、人物の書き方）（上で読み込み）
+- project-settings.md：設定資料（物語の中心、人物、世界観、未確定事項）（上で読み込み）
+- bardelia_vol01.txt：第一話「川の向こうへ」の本文
+- bardelia_vol02.txt：第二話「風の来る丘」の本文
+- Bardelia_plot02.md：第二話プロット
+- draft_files：下書き、アイデア集。参照しない。
