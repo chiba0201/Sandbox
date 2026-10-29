@@ -4,22 +4,32 @@
 
 1. CLAUDE.md
    - プロジェクト共通の指示と作業ルールを確認してください。
-2. writing-policy.md
+2. Bardelia_outline.md：第五話以降の全体構成メモ
+   - 第三話終了時点で作成されたメモです。今後の展開案を確認してください。
+3. writing-policy.md
    - 執筆の進め方、描写と文章、表記、人物の書き方を確認してください。
-3. project-settings.md
+4. project-settings.md
    - 物語の中心、人物、世界観、未確定事項を確認してください。
-4. bardelia_vol01.txt
+5. bardelia_vol01.txt
    - 第一話の本文を読み、これまでの出来事と実際の文体を把握してください。
-5. bardelia_vol02.txt
+6. bardelia_vol02.txt
    - 第二話の本文を読み、これまでの出来事と実際の文体を把握してください。
-6.  bardelia_vol03.txt
+7.  bardelia_vol03.txt
    - 第三話の本文を読み、これまでの出来事と実際の文体を把握してください。
-7. Bardelia_plot01.md
+8.  bardelia_vol04.txt
+   - 第四話の本文を読み、これまでの出来事と実際の文体を把握してください。
+9.  bardelia_vol05.txt
+   - 第五話の本文を読み、これまでの出来事と実際の文体を把握してください。
+10. Bardelia_plot01.md
    - 第一話の構成と展開を確認し、執筆済みの本文との対応を把握してください。
-8.Bardelia_plot02.md
+11.Bardelia_plot02.md
    - 第二話の構成と展開を確認し、執筆済みの本文との対応を把握してください。
-9. Bardelia_plot03.md
+12. Bardelia_plot03.md
    - 第三話の構成と展開を確認し、執筆済みの本文との対応を把握してください。
+13. Bardelia_plot04.md
+   - 第四話の構成と展開を確認し、執筆済みの本文との対応を把握してください。
+14. Bardelia_plot05.md
+   - 第五話の構成と展開を確認し、執筆済みの本文との対応を把握してください。
 
 
 ## 参照しないもの
